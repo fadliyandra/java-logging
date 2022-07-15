@@ -1,0 +1,19 @@
+2022-07-15 11:31:02.915 [main] WARN  p.fadliyandra.logging.LevelTest - [] - Warning
+2022-07-15 11:31:02.920 [main] ERROR p.fadliyandra.logging.LevelTest - [] - Error
+2022-07-15 11:37:14.933 [main] ERROR contoh.ContohTest - [] - Contoh
+2022-07-15 11:43:30.827 [main] TRACE p.fadliyandra.logging.LevelTest - [] - Trace
+2022-07-15 11:43:30.832 [main] DEBUG p.fadliyandra.logging.LevelTest - [] - Debug
+2022-07-15 11:43:30.833 [main] INFO  p.fadliyandra.logging.LevelTest - [] - Info
+2022-07-15 11:43:30.835 [main] WARN  p.fadliyandra.logging.LevelTest - [] - Warning
+2022-07-15 11:43:30.836 [main] ERROR p.fadliyandra.logging.LevelTest - [] - Error
+2022-07-15 14:12:18.619 [main] TRACE p.fadliyandra.logging.LevelTest - [] - Trace
+2022-07-15 14:12:18.625 [main] DEBUG p.fadliyandra.logging.LevelTest - [] - Debug
+2022-07-15 14:12:18.626 [main] INFO  p.fadliyandra.logging.LevelTest - [] - Info
+2022-07-15 14:12:18.627 [main] WARN  p.fadliyandra.logging.LevelTest - [] - Warning
+2022-07-15 14:12:18.627 [main] ERROR p.fadliyandra.logging.LevelTest - [] - Error
+2022-07-15 14:53:30.109 [main] INFO  p.fadliyandra.logging.MyController - [] - 6930587f-d111-42ae-91bb-a76f7382a0c9- Controller Save 
+2022-07-15 14:53:30.118 [main] INFO  p.fadliyandra.logging.MyService - [] - 6930587f-d111-42ae-91bb-a76f7382a0c9 - Service save
+2022-07-15 14:53:30.119 [main] INFO  p.fadliyandra.logging.MyRepository - [] - 6930587f-d111-42ae-91bb-a76f7382a0c9- Repository Save
+2022-07-15 15:12:37.526 [main] INFO  p.fadliyandra.logging.MyController - [b4f7a742-7934-4cf8-a89a-227bba68903d] - b4f7a742-7934-4cf8-a89a-227bba68903d- Controller Save 
+2022-07-15 15:12:37.536 [main] INFO  p.fadliyandra.logging.MyService - [b4f7a742-7934-4cf8-a89a-227bba68903d] - b4f7a742-7934-4cf8-a89a-227bba68903d - Service save
+2022-07-15 15:12:37.537 [main] INFO  p.fadliyandra.logging.MyRepository - [b4f7a742-7934-4cf8-a89a-227bba68903d] - b4f7a742-7934-4cf8-a89a-227bba68903d- Repository Save
